@@ -1,0 +1,425 @@
+body {
+  background: black; }
+
+.containerHeader {
+  position: relative;
+  top: 100px;
+  position: relative;
+  top: 100px; }
+
+.containerNavbar {
+  position: relative;
+  top: 120px; }
+
+.logo {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 35%; }
+
+.shopsLocation1, .shopsLocation2 {
+  text-align: center;
+  color: white;
+  padding-top: 10px; }
+
+.navbar-nav :hover {
+  color: #9923ad; }
+
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  text-align: center;
+  color: white;
+  border-bottom: 10px solid #fcaa3e; }
+
+.menuTitle {
+  font-size: 40px; }
+
+.tiendasMap {
+  position: relative;
+  top: 160px; }
+
+h2, h3, h5 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  text-align: center; }
+
+.significado {
+  font-size: 40px;
+  text-decoration: underline #9923ad; }
+
+h6 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 22px;
+  font-style: italic;
+  text-decoration: underline #9923ad;
+  color: white; }
+
+.history {
+  text-align: center;
+  font-size: 45px;
+  color: white;
+  text-decoration: underline #9923ad; 
+}
+
+.historyImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+p {
+  font-family: serif;
+  font-style: italic;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  border: 3px solid #9923ad;
+  border-radius: 5px;
+  padding: 5px; }
+
+.timeOutArticulo {
+  position: relative;
+  top: 200px; }
+
+.articuloUnBuenDia {
+  position: relative;
+  top: 300px; }
+
+img {
+  border: 3px solid #9923ad;
+  border-radius: 5px;
+  padding: 8px; }
+
+img:hover {
+  border: 3px solid #fcaa3e;
+  opacity: 0.9; }
+
+.imagesHomePage {
+  position: relative;
+  top: 180px;
+  text-align: center;
+  border-bottom: 10px solid #fcaa3e; }
+
+.img-fluid--matchaCono {
+  height: 85%;
+  width: 85%; }
+
+.img-fluid--chocolateNata {
+  height: 85%;
+  width: 85%; }
+
+.img-fluid--chocolateVioletaCono {
+  height: 85%;
+  width: 85%; }
+
+.instagramWidget, .facebookWidget, .tripadvisorWidget, .whatsappWidget, .googleWidget, .tiktokWidget {
+  border: none; }
+
+.instagramWidget :hover {
+  border: 2px solid #fcaa3e; }
+
+.facebookWidget :hover {
+  border: 2px solid #fcaa3e; }
+
+.tripadvisorWidget :hover {
+  border: 2px solid #fcaa3e; }
+
+.whatsappWidget :hover {
+  border: 2px solid #fcaa3e; }
+
+.googleWidget :hover {
+  border: 2px solid #fcaa3e; }
+
+.tiktokWidget :hover {
+  border: 2px solid #fcaa3e; }
+
+.list-group {
+  width: 375px;
+  padding: 3px;
+  border: 3px solid #9923ad;
+  text-align: center;
+  font-size: 25px;
+  padding: 5px;
+  position: relative;
+  top: 125px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  border-radius: 15px; }
+  .list-group .list-group-item2, .list-group .list-group-item3, .list-group .list-group-item4 {
+    color: white;
+    list-style: none; }
+  .list-group .list-group-item1 {
+    color: #fcaa3e;
+    text-decoration: underline;
+    font-weight: bold;
+    list-style: none; }
+  .list-group .list-group-item5 {
+    color: green;
+    font-style: italic;
+    text-decoration: underline;
+    list-style: none;
+    font-weight: bold; }
+
+.table {
+  width: 380px;
+  position: relative;
+  top: 75px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  border: 3px solid #9923ad;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 15px;
+}
+
+.tb {
+  text-decoration: underline 3px #9923ad; }
+
+.taiyakiGraffiti {
+  height: 438px;
+  width: 400px; }
+
+.taiyakiAnko {
+  position: relative;
+  top: 40px;
+  right: 30px;
+  width: 450px;
+  height: 364px; }
+
+.menuCalders {
+  font-weight: bold;
+  color: #9923ad; }
+
+.toppings {
+  position: relative;
+  top: 545px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 800px; }
+
+.card-text {
+  color: black; }
+
+.footerSobreNosotros {
+  position: relative;
+  top: 400px; }
+
+.youTube {
+  position: relative;
+  top: 300px;
+  border-bottom: 10px solid #fcaa3e;
+  border-top: 10px solid #fcaa3e;
+  height: 525px; }
+  .youTube .videoLink {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 20px; }
+  .youTube .youTubeWidget {
+    max-width: 70px;
+    border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px; }
+
+.timeOutLink, .unBuenDiaLink, .muyJaponesLink {
+  padding: 5px;
+  border: 3px solid;
+  border-radius: 10px;
+  background: lightgray;
+  color: black;
+  text-decoration: none;
+  font-family: serif; }
+
+.timeOutLink:hover, .unBuenDiaLink:hover, .muyJaponesLink:hover {
+  background: #9923ad;
+  color: white; }
+
+.card1 {
+  position: relative;
+  top: 230px;
+  left: 30px;
+  background: white;
+  width: 18rem; }
+
+.card2 {
+  width: 18rem;
+  position: relative;
+  top: 250px;
+  left: 30px;
+  background: white; }
+
+.imagesTiendaPage {
+  position: relative;
+  top: 400px;
+  text-align: center;
+  padding: 30px;
+  border-top: 10px solid #fcaa3e; }
+  .imagesTiendaPage .img-fluid--taiyakiNea {
+    width: 85%;
+    height: 70%; }
+  .imagesTiendaPage .img-fluid--taiyakiCalle {
+    width: 85%;
+    height: 70%; }
+  .imagesTiendaPage .img-fluid--taiyakiRellenoCesta {
+    width: 85%;
+    height: 70%; }
+
+.footerTiendas {
+  position: relative;
+  top: 400px; }
+
+.divTiendaCalders {
+  position: relative;
+  top: 120px; }
+
+.taiyakiBornTiendaTitulo {
+  position: relative;
+  bottom: 10px;
+  font-size: 50px;
+  text-decoration: underline #9923ad;
+  color: white; }
+
+.taiyakiMaquinistaTiendaTitulo {
+  font-size: 50px;
+  text-decoration: underline #9923ad;
+  position: relative;
+  top: 420px; }
+
+.tiendasMap {
+  position: relative;
+  top: 160px;
+  font-size: 40px; }
+
+.footerContactos {
+  position: relative;
+  top: 385px; }
+
+.fishIconContact {
+  text-align: center;
+  position: relative;
+  top: 300px;
+  height: 300px; }
+  .fishIconContact .fishIcon1 {
+    border: none;
+    background-image: linear-gradient(to left, #9923ad, #fcaa3e); }
+  .fishIconContact .fishIcon2 {
+    border: none;
+    background-image: linear-gradient(to left, #9923ad, #fcaa3e); }
+  .fishIconContact .fishIcon3 {
+    border: none;
+    background-image: linear-gradient(to left, #9923ad, #fcaa3e); }
+  .fishIconContact .fishIcon1:hover, .fishIconContact .fishIcon2:hover, .fishIconContact .fishIcon3:hover {
+    background-image: linear-gradient(to left, #fcaa3e, #9923ad); }
+    @media (max-width: 768px) {
+      .fishIcon1, .fishIcon3 {
+        display: none;
+      }
+    }
+
+.agradecimientoContacto {
+  position: relative;
+  top: 175px; }
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 55%;
+    position: relative;
+    top: 230px;
+    color: white;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 36px;
+    font-family: serif;
+    text-align: center;
+}
+.gdpr{
+    color: white; 
+}
+.img-fluid--taiyakero2 {
+  width: 85%;
+  height: 70%; }
+
+.img-fluid--taiyakero3 {
+  width: 85%;
+  height: 70%; }
+
+.img-fluid--taiyakero4 {
+  width: 85%;
+  height: 70%; }
+
+.imageTaiyakiPage {
+  position: relative;
+  top: 180px; }
+
+.img-fluid--taiyakiLacasitos {
+  height: 70;
+  width: 85%; }
+
+.img-fluid--taiyakiGraffiti {
+  height: 70%;
+  width: 85%; }
+
+.img-fluid--taiyakiAnko {
+  height: 70%;
+  width: 85%; }
+
+.imagesSobreNosotrosPage {
+  position: relative;
+  top: 250px;
+  text-align: center;
+  }
+
+
+.button {
+  transition-duration: 0.4s;
+  position: relative;
+  border-radius: 10px;
+  padding-top: 5px; 
+  max-width: 50%;
+    top: 4px;
+    margin-left: auto;
+    margin-right: auto;}
+
+.button:hover {
+  background: #9923ad;
+  color: white; 
+  border: 2px solid white;
+}
+
+.navbar-nav :hover {
+  background: #9923ad; }
+
+.articulo {
+  padding-bottom: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+  
+  .inputForm {
+    border: none;
+     text-align: center;
+     color: white;
+     background: black;
+     border-bottom: 2px solid white;
+     font-size: 25px;
+ }
+ .inputForm:hover {
+     border: 2px solid white;
+ }
+ ::placeholder {
+   color: white;
+ }

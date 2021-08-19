@@ -1,0 +1,22 @@
+.containerHeader {  position: relative; top: 100px;
+    position: relative;
+    top: 100px;
+ }
+ .containerNavbar {
+    position: relative; 
+    top: 120px;
+ }
+ .logo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 35%;
+ }
+ .shopsLocation1, .shopsLocation2 {
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+.navbar-nav :hover {
+  color: #9923ad;
+}

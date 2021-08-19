@@ -1,0 +1,402 @@
+
+body  {
+   background: black;
+}
+
+$textColor: white;
+$textFamily: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+
+@import 'header';
+
+
+h1 {
+    font-family: $textFamily;
+    font-size: 24px;
+    text-align: center;  
+    color: $textColor;  
+    border-bottom: 10px solid #fcaa3e;
+}
+.menuTitle {
+   font-size: 40px;
+}
+.tiendasMap {
+   position: relative;
+   top: 160px;
+}
+h2, h3, h5 {
+   font-family: $textFamily;
+   color: $textColor; 
+   text-align: center;
+}
+.significado {
+   font-size: 40px;
+    text-decoration: underline #9923ad;
+}
+
+
+h6 {
+   font-family: $textFamily;
+   text-align: center;
+   font-size: 22px;
+   font-style: italic;
+   text-decoration: underline #9923ad;
+   color: $textColor; 
+}
+.history {
+   text-align: center;
+   font-size: 45px;
+   color: $textColor; 
+   text-decoration: underline #9923ad;
+}
+.img-fluid--historyImage {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+   font-family: serif;
+   font-style: italic;
+   font-size: 21px;
+   text-align: center;
+   font-weight: bold;
+   color: white;
+   border: 3px solid #9923ad;
+   border-radius: 5px;
+   padding: 5px;
+}
+.timeOutArticulo {
+      position: relative;
+      top: 200px;
+}
+.articuloUnBuenDia {
+   position: relative;
+   top: 300px;
+}
+
+img {
+   border: 3px solid #9923ad;
+   border-radius: 5px;
+   padding: 8px;
+}
+img:hover {
+   border: 3px solid #fcaa3e;
+   opacity: 0.5;
+}
+.imagesHomePage {
+   position: relative;
+   top: 180px;
+   text-align: center;
+   border-bottom: 10px solid #fcaa3e;
+}
+
+      .img-fluid--matchaCono {
+         height: 85%;
+         width: 85%;
+      }
+      .img-fluid--chocolateNata {
+         height: 85%;
+         width: 85%;
+      }
+      .img-fluid--chocolateVioletaCono {
+         height: 85%;
+         width: 85%;
+      }       
+.instagramWidget, .facebookWidget, .tripadvisorWidget, .whatsappWidget, .googleWidget, .tiktokWidget {
+   border: none;
+}
+.instagramWidget :hover {
+   border: 2px solid #fcaa3e; 
+
+}
+.facebookWidget :hover {
+   border: 2px solid #fcaa3e;
+}
+.tripadvisorWidget :hover {
+   border: 2px solid #fcaa3e;
+}
+.whatsappWidget :hover {
+   border: 2px solid #fcaa3e;
+}
+.googleWidget :hover {
+   border: 2px solid #fcaa3e;
+}
+.tiktokWidget :hover {
+   border: 2px solid #fcaa3e;
+}
+.list-group {
+   width: 375px;
+   padding: 3px;
+   border: 3px solid #9923ad;
+   text-align: center;
+   font-size: 20px;
+   padding: 5px;
+   position: relative;
+   top: 125px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: lightgray;
+  
+         .list-group-item2, .list-group-item3, .list-group-item4 {
+         color: black;
+         list-style: none;
+         }
+         .list-group-item1 {
+            color: #fcaa3e;
+            text-decoration: underline;
+            font-weight: bold;
+            list-style: none;
+         }
+
+         .list-group-item5 {
+            color: green;
+            font-style: italic;
+            text-decoration: underline;
+            list-style: none;
+            font-weight: bold;
+         }
+}
+.table {
+   width: 324px;
+    position: relative;
+    top: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border: 3px solid #9923ad;
+    text-align: center;
+}
+
+.tb {
+   text-decoration: underline 3px #9923ad;
+}
+.taiyakiGraffiti {
+   height: 438px;
+   width: 400px;
+}
+.taiyakiAnko {
+   position: relative;
+   top: 40px;
+   right: 30px;
+   width: 450px;
+   height: 364px;
+}
+.menuCalders {
+   font-weight: bold;
+   color: #9923ad;
+}
+.toppings {
+   position: relative;
+   top: 545px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   height: 300px;
+   width: 800px;
+}
+.card-text {
+   color: black;
+}
+.footerSobreNosotros {
+   position: relative;
+    top: 400px;
+
+}
+.youTube {
+   position: relative;
+   top: 300px;
+   border-bottom: 10px solid #fcaa3e;
+   border-top: 10px solid #fcaa3e;
+   height: 525px;   
+            .videoLink {
+               display: block;
+               margin-left: auto;
+               margin-right: auto;
+               margin-bottom: 10px;
+               padding: 20px;
+            }
+            .youTubeWidget {
+               max-width: 70px;
+               border: none;
+               display: block;
+               margin-left: auto;
+               margin-right: auto;
+               margin-bottom: 10px;
+            }
+}
+.timeOutLink, .unBuenDiaLink, .muyJaponesLink {
+   padding: 5px;
+    border: 3px solid;
+    border-radius: 10px;
+    background: lightgray;
+    color: black;
+    text-decoration: none;
+    font-family: serif;
+}
+.timeOutLink:hover, .unBuenDiaLink:hover, .muyJaponesLink:hover {
+   background: #9923ad;
+   color: white;
+}
+
+.card1 {
+   position: relative;
+   top: 230px;
+   left: 30px;
+   background: white;
+   width: 18rem;
+}
+.card2 {
+    width: 18rem;
+    position: relative;
+    top: 250px;
+    left: 30px;
+    background: white;
+}
+.imagesTiendaPage {
+   position: relative;
+    top: 400px;
+    text-align: center;
+    padding: 30px;
+    border-top: 10px solid #fcaa3e;
+
+      .img-fluid--taiyakiNea { 
+         max-width: 85%;
+         height: 85%; }
+
+      .img-fluid--taiyakiCalle {
+         max-width: 85%;
+         height: 85%; }
+
+       .img-fluid--taiyakiRellenoCesta {
+         max-width: 85%;
+         height: 85%;}  
+   }
+   .footerTiendas {
+      position: relative;
+      top: 400px;     
+   }
+   .divTiendaCalders {
+      position: relative;
+      top: 120px;}
+   
+   .taiyakiBornTiendaTitulo {
+      position: relative;
+      bottom: 10px;
+      font-size: 50px;
+      text-decoration: underline #9923ad;
+      color: white;
+   }
+   .taiyakiMaquinistaTiendaTitulo {
+      font-size: 50px;
+      text-decoration: underline #9923ad;
+      position: relative;
+      top: 420px;
+   }
+   .tiendasMap {
+      position: relative;
+      top: 160px;
+      font-size: 40px;
+   }
+   .footerContactos {
+      position: relative;
+      top: 385px;
+   }
+   .fishIconContact{
+         text-align: center;
+         position: relative;
+         top: 300px;
+         height: 300px;
+      .fishIcon1 {
+         border: none;
+         background-image: linear-gradient(to left, #9923ad, #fcaa3e );
+      }
+      .fishIcon2 {
+         border: none;
+         background-image: linear-gradient(to left, #9923ad, #fcaa3e );
+      }
+      .fishIcon3 {
+         border: none;
+         background-image: linear-gradient(to left, #9923ad, #fcaa3e);
+      }
+      .fishIcon1:hover, .fishIcon2:hover, .fishIcon3:hover {
+        
+         background-image: linear-gradient(to left, #fcaa3e, #9923ad);
+      }
+   }
+      .agradecimientoContacto {
+         position: relative;
+         top: 175px;
+      }
+      .form {
+         width: 40%;
+         position: relative;
+         top: 230px;
+         color: white;
+         text-align: center;
+         font-size: 20px;
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+         border-radius: 15px;
+         background: black;
+         font-family: fantasy;
+         padding: 10px;
+      }
+   
+      .img-fluid--taiyakero2 {
+         width: 80%;
+         height: 80%;
+      }
+      .img-fluid--taiyakero3 {
+         width: 80%;
+         height: 80%;
+      }
+      .img-fluid--taiyakero4 {
+         width: 80%;
+         height: 80%;
+      }
+     .imageTaiyakiPage {
+         position: relative;
+         top: 180px;
+     }
+     .img-fluid--taiyakiLacasitos {
+        height: 85%;
+        width: 85%;
+     }
+     .img-fluid--taiyakiGraffiti {
+         height: 85%;
+         width: 85%;
+     }
+     .img-fluid--taiyakiAnko {
+         height: 85%;
+         width: 85%;
+     }
+     .imagesSobreNosotrosPage {
+         position: relative;
+         top: 250px;
+         text-align: center;
+         border-bottom: 10px solid #fcaa3e;
+     }
+     .button {
+        transition-duration: 0.4s;
+        position: relative;
+        bottom: 5px;
+        border-radius: 10px;
+        padding-top: 5px;
+     }
+     .button:hover {
+         background: #9923ad;
+         color: white;
+     }
+      .navbar-nav :hover {
+         background: #9923ad;
+     }
+     .articulo {
+      padding-bottom: 25px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+     }
+   
